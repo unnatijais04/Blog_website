@@ -19,20 +19,5 @@ REACT_APP_FIREBASE_STORAGE_BUCKET=<br/>
 REACT_APP_MESSAGING_SENDER=<br/>
 REACT_APP_APP_ID=<br/>
 
-### Author Links  
-
-👋 Hello,I am Shadman and I am a Full Stack Web developer  
-
-🚀 Follow me:  
-
-
-  - [Github](https://github.com/sakibshadman19)
-  - [LinkedIn](https://www.linkedin.com/in/shadmansakib1/)
-
   
 
-
-<!-- all link is here -->
-
-
-"# Blog_website" 
