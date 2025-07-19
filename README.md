@@ -1,4 +1,4 @@
-# Blog Website with React JS - FIREBASE - SASS
+# Blog Website with React JS 
     
 <img src="ss.png"/>  
 
