@@ -18,6 +18,8 @@ A fully functional blogging platform built using React.js and Appwrite, aimed at
 Layer	Technology
 Frontend	React.js
 State Mgmt	Redux Toolkit
+<img width="1894" height="873" alt="blog website" src="https://github.com/user-attachments/assets/fe128f44-9678-4947-b816-486535b82841" />
+
 Backend (BaaS)	Appwrite
 Routing	React Router DOM
 Hosting	Firebase or Vercel
